@@ -1,0 +1,1 @@
+# Desafio-IA-Generativa-com-Copilot-e-OpenAI-2024
